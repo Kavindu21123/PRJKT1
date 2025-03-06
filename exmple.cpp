@@ -2,6 +2,7 @@
 using namespace std;
 
 // Function to add two numbers
+//numbers should be whole numbers
 double add(double num1, double num2) {
     return num1 + num2;
 }
